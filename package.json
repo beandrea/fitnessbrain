@@ -1,0 +1,25 @@
+{
+  "name": "fitnessbrain",
+  "version": "1.0.0",
+  "description": "A fitness tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beandrea/fitnessbrain.git"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beandrea/fitnessbrain/issues"
+  },
+  "homepage": "https://github.com/beandrea/fitnessbrain#readme"
+}
