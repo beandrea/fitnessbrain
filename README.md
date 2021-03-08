@@ -1,5 +1,5 @@
 # fitnessbrain
 
-A fitness tracking app using mongoose and express
+A fitness tracking app using mongoose, express, and path
 
-https://intense-plains-62975.herokuapp.com/
+https://pure-reaches-98859.herokuapp.com/
